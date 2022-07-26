@@ -1,0 +1,180 @@
+@media (max-width:1579px) {
+
+}
+
+@media (max-width:1279px) {
+.offcanvas-body { padding: 70px 120px 40px 90px;}
+.offcanvas-header .btn-close { top: 40px; right: 40px;}
+.hero_sec h1{ font-size:60px; line-height:68px;}
+.hero_sec .info { margin: 0 0 50px; font-size: 16px; line-height: 26px; max-width: 400px;}
+.hero_sec figure { height: auto; top: 55%; bottom: auto; width: 50%; transform: translate(0,-50%);}
+.service{ padding:30px 20px 20px;}
+ul.service_list li{ font-size:16px; line-height:30px;}
+.services_sec p{ font-size:16px; line-height:26px;}
+.software_sec h3{ font-size:20px;}
+.work_foot p{ font-size:16px; line-height:26px;}
+.project_sec .inner .detail { padding: 100px 8% 0 50px;}
+.project_sec .inner h3{ font-size:30px;}
+.project_sec .inner h3 small{ font-size:18px;}
+.project_sec .inner{ margin-bottom:100px;}
+.project_sec{ padding-top:100px;}
+.get_sec{ padding-bottom:100px;}
+.footer_detail{ padding:60px 0;}
+.location_sec .location_block p{ font-size:16px; line-height:26px; margin-bottom:30px;}
+.global_title{ font-size:48px;}
+.global_title small{ font-size:18px;}
+.location_sec{ padding-bottom:10px;}
+header{ padding:30px 0;}
+ul.s_channel{ padding-right:0;}
+ul.s_channel li{ margin-right:30px;}
+.form_info .input-group label{ font-size:16px;}
+.form_info .input-group .form-control.field{ height:180px;}
+.get_sec label{ font-size:18px;}
+.get_sec a{ font-size:28px;}
+
+/**/
+.craft_sec .info{ margin-bottom:120px;}
+p{ font-size:18px; line-height:27px;}
+
+.inner_banner .detail { padding: 40px 0 70px;}
+.inner_banner h2 { font-size: 27px; line-height: 37px;}
+.inner_banner h3 { margin-bottom: 10px; font-size: 18px;}
+.inner_banner .banner_logo{ width:300px;}
+.technology_sec{ padding:100px 0 60px;}
+.counter_sec{ padding-bottom:80px;}
+.counter_block strong{ font-size:48px;}
+.counter_block small{ font-size:20px; margin-bottom:30px;}
+.process_sec p { margin-bottom: 30px;}
+}
+
+/************ Main **************/
+@media (max-width: 991px) {
+.offcanvas-body { padding: 70px 80px 40px 60px;}
+.offcanvas-end { width: 620px;}
+ul.navbar_link > li > a{ font-size:30px; line-height:normal;}
+.hero_sec h1 { font-size: 44px; line-height: 58px;}
+.hero_sec h1 small { margin-bottom: 10px; font-size: 25px; line-height: normal;}
+.hero_sec{ padding:40px 0 60px;}
+.hero_sec .info { margin: 0 0 30px; font-size: 14px; line-height: 24px; max-width: 360px;}
+.work_rating { padding: 15px;}
+.upwork_sec .inner{ padding:5px 0;}
+.services_sec{ padding:40px 0;}
+.services_sec .detail { max-width: 100%;}
+.software_sec .inner{ padding:40px 0 10px;}
+.work_sec{ padding:40px 0;}
+.global_title{ font-size:34px;}
+.global_title.mb-7 { margin-bottom: 40px;}
+.work_foot{ padding-top:40px;}
+.project_sec { padding-top: 40px;}
+.project_sec .inner { margin-bottom: 40px;}
+.project_sec .inner .detail { padding: 50px 20px 0 20px;}
+.project_sec .inner h3 { font-size: 24px;}
+.project_sec .inner h3 small{ margin-bottom:21px;}
+.get_sec{ padding:40px 0;}
+.get_sec label{ margin-top:30px;}
+.get_sec a { font-size: 24px;}
+.form_info { padding: 30px;}
+ul.s_channel li a{ font-size:14px;}
+ul.s_channel li { margin:0 20px 14px 0;}
+.form_info .input-group .form-control{ height:50px;}
+.form_info .input-group i{ bottom:10px;}
+.form_info .input-group .form-control.field { height: 100px;}
+.form_info .view_link { margin-top: 20px;}
+.location_sec .location_block p { font-size: 14px; line-height: 24px;}
+.view_link{ font-size:16px;}
+.view_link::after { width: 36px; height: 36px;}
+.view_link:hover::before { right: -13px;}
+
+header .navbar-brand{ width:140px;}
+
+/**/
+.craft_sec{ padding:40px 0;}
+.craft_sec .info{ margin-bottom:30px;}
+.craft_block h3{ font-size:24px;}
+p{ font-size:16px; line-height:24px;}
+.craft_block{ margin-bottom:10px;}
+.craft_block figure{ margin-bottom:20px;}
+.hire_sec{ padding:40px 0;}
+.global_title.mb-5{ margin-bottom:30px !important;}
+
+.inner_banner .detail { padding: 30px 0 40px;}
+.inner_banner .banner_logo { width: 240px;}
+.technology_sec{ padding:40px 0 10px;}
+.counter_sec{ padding:40px 0 10px;}
+.process_sec{ padding:40px 0 10px;}
+.process h3 { margin-bottom: 15px; font-size: 18px; gap:15px;}
+.process h3 small { flex: 0 0 45px; width: 45px; height: 45px; font-size: 20px;}
+.client_sec { padding: 40px 0 10px;}
+.client_sec figure{ padding:10px;}
+.testimonial_sec{ padding:40px 0;}
+.testimonial_sec .detail { margin: 0 0 20px 0; padding: 0 20px 20px 20px;}
+.testimonial_sec .author{ padding-left:0;}
+.testimonial_sec .author h3{ font-size:18px;}
+.testimonial_sec .author h3 small{ font-size:14px;}
+.testimonial_sec .author figure { width: 54px; margin: 0 15px 0 0;}
+.location_sec .location_block figure{ margin-bottom:30px;}
+
+.design_sec{ padding:30px 0 20px;}
+.talk_sec{ padding:40px 0;}
+.app_sec{ padding:40px 0 10px;}
+.app_sec .app_img_1{ margin:0 0 30px 0;}
+.tool_info h2{ font-size:30px;}
+.tool_info h3 { margin: 0 0 25px 0; padding: 20px 0 0 0; font-size: 23px;}
+.tool_info h3::before { width: 40px; height: 4px;}
+.app_sec .mt_9 { margin-top: 0;}
+}
+
+@media (max-width: 767px) {
+html { -webkit-text-size-adjust:none;}
+.container{ width:90%; margin:0 auto; padding:0; max-width: inherit;}
+.offcanvas-end { width: 100%;}
+.offcanvas-body { padding: 50px 5% 30px 5%;}
+.offcanvas-header .btn-close { top: 20px; right: 20px; width: 50px; height: 50px;}
+ul.navbar_link > li{ margin-bottom:12px;}
+ul.navbar_link > li > a img{ width:35px;}
+ul.navbar_link > li > a{ font-size:23px;}
+.offcanvas-body h6{ margin-bottom:20px;}
+.mail a{ font-size:19px;}
+header { padding: 20px 0;}
+.hero_sec h1 { font-size: 30px; line-height: 43px;}
+.hero_sec h1 small { margin-bottom: 6px; font-size: 18px;}
+.work_rating{ text-align:center;}
+.work_foot p{ margin-bottom:30px;}
+.project_sec .inner .detail { padding: 30px 0 0 0;}
+.project_sec .inner h3 { font-size: 21px;}
+.project_sec .inner h3 small { font-size: 16px;}
+.get_sec label { font-size: 16px; margin-bottom:15px;}
+.get_sec a { font-size: 21px;}
+ul.s_channel{ margin-bottom:30px;}
+.footer_detail { padding: 30px 0 0;}
+.footer_detail p{ text-align:center; margin-bottom:30px; max-width: 100%;}
+.footer_detail h4{ text-align:center; font-size:18px;}
+.social_links a { margin: 0 30px 20px 0; font-size: 14px;}
+
+/**/
+.craft_block.mt-5{ margin-top:0 !important;}
+.craft_block{ margin-bottom:30px;}
+.craft_sec{ padding-bottom:10px;}
+.spacing40{ margin-left:-15px; margin-right:-15px;}
+.spacing40>div{ padding-left:15px; padding-right:15px;}
+
+.counter_sec{ padding-top:10px;}
+.inner_banner .banner_logo { width: 180px;}
+.inner_banner h2 { font-size: 24px; line-height: 30px;}
+
+.footer_detail.inner_footer .ft_logo{ text-align:center;}
+.footer_detail.inner_footer .s_channel{ text-align:center; padding-top:0;}
+}
+
+/************ iphone **************/
+@media (max-width:600px) {
+html { -webkit-text-size-adjust:none;}
+.form_info { padding:20px 15px 30px;}
+.location_sec{ text-align:center;}
+.social_links a { margin: 0 0 20px 0; width: 49%;}
+p{ font-size:14px; line-height:23px;}
+
+.client_sec figure { margin-bottom: 18px;}
+
+.inner_banner .banner_logo img.mw-1{ max-height:100px;}
+}
